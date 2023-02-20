@@ -1,0 +1,1 @@
+(()=>{"use strict";var e,n;document.body.appendChild((e=document.createElement("div"),n=document.createElement("button"),e.innerHTML="hello",n.innerHTML="Click me and check the console!",n.onclick=function(){console.log("print.js")},e.appendChild(n),e))})();
